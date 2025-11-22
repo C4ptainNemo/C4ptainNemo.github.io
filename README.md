@@ -1,6 +1,5 @@
 ## Welcome to my GitHub landing page
-Here you can find links to various repositories that I have created to act as a portfolio for projects I have worked on, either personal or for university.
-
+Here you can find links to repositories for projects I have worked on, either personal or for university.
 
 ### [Small projects](https://github.com/C4ptainNemo/Small-Projects)
 This is a collection of small projects that do not warrant a whole repo to themselves.
