@@ -2,10 +2,10 @@
 Here you can find links to repositories for projects I have worked on, either personal or for university.
 
 ### [Small projects](https://github.com/C4ptainNemo/Small-Projects)
-This is a collection of small projects that do not warrant a whole repo to themselves.
+A collection of small projects that do not warrant a whole repo to themselves.
 
 ### [BattleShip built in Python](https://github.com/C4ptainNemo/BattleShip_Python)
-This is the classic game BattleShips built in Python and plays in the terminal.
+The classic game BattleShips built in Python and plays in the terminal.
  
 ### [Planetary Gearbox](https://github.com/C4ptainNemo/Planetary_Gear_Box_Project)
-This is a two stage planetary gearbox designed and built for a university project.
+A two stage planetary gearbox designed and built for a university project.
